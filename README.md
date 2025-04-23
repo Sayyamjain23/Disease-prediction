@@ -137,6 +137,3 @@ Contributions are welcome! To contribute:
 
 5. Create a pull request.
 
-## Contact Information
-
-For questions, feedback, or contributions, please contact Janani at jananiviswa05@gmail.com.
